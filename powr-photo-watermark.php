@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Photo Watermark
     Plugin URI: http://www.powr.io
-    Description: Add a custom watermark to any photo or image Add the widget to your theme, or create a Photo Watermark on ANY page or post by using the shortcode [powr-photo-watermark]. Then, simply visit your site and click the settings icon to customize your Photo Watermark right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Protect your photos and images with a custom watermark! Add the widget to your theme, or create a Photo Watermark on ANY page or post by using the shortcode [powr-photo-watermark]. Then, simply visit your site and click the settings icon to customize your Photo Watermark right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
