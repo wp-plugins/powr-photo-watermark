@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: photo watermark, image watermark, custom watermark, photo editor, image editor, photo filter, image filter, image animation, photo animation, image caption, photo caption, image resize, photo resize, photo editor plugin, image editor plugin, photo editor widget, image editor widget, protect, defend, watermark, copyright, online watermark, photography watermark, filigrane, logo, media, signature, upload, photo upload, file upload, image upload, transparent, security, add watermark, photojournalism, photographer tools, graphic artist, free, responsive design, easy, personalize, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
