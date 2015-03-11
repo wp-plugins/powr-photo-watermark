@@ -22,7 +22,6 @@ First, download, install, and activate POWr Photo Watermark. Then drop the widge
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-photo-watermark-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Choose from pre-existing watermarks, or design and create your own!
 * Equipped with easy to use image filters like grayscale, sepia, contrast, and more.
@@ -33,9 +32,10 @@ First, download, install, and activate POWr Photo Watermark. Then drop the widge
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Photo Watermark.
