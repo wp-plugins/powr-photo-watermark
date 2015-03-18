@@ -37,6 +37,7 @@ First, download, install, and activate POWr Photo Watermark. Then drop the widge
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Photo Watermark.
 <br>
