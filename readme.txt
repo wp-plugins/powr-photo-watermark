@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Defend your photos with the undisputed leader in watermarks!
 
 == Description ==
- Defend your photos with the undisputed leader in watermarks!
+[youtube https://www.youtube.com/watch?v=OdUHShj0NpA] Defend your photos with the undisputed leader in watermarks!
 <br>
 <br>
 POWr Photo Watermark is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
